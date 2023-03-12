@@ -1,0 +1,2 @@
+Do not forget to change .env files under server and client files : IP
+Add roles_path for play_role in .ansible.cfg
